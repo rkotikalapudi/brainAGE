@@ -1,5 +1,5 @@
 
-![performance](https://github.com/k87rte/brainAGE/assets/138688681/400387cb-749e-4c8a-84fa-b6e593a741e7)
+![performance](https://github.com/k87rte/brainAGE/assets/138688681/17084685-9000-4fda-9908-2c157821af82)
 
 # brainAGE
 The aging process of our brain is a topic of great significance, as it holds implications for both our physical and mental well-being. Thanks to advancements in medical technology, such as magnetic resonance imaging (MRI), we now have the ability to scan our brains and employ sophisticated methodologies and statistical analyses to estimate their age. This estimation, known as brainAGE, serves as a valuable biomarker of brain health by revealing how the age of our brain differs from our chronological age. By harnessing these cutting-edge techniques, we gain a deeper understanding of the intricate dynamics involved in brain aging, ultimately aiding in the pursuit of enhanced well-being and cognitive vitality. 
