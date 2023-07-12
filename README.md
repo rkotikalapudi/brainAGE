@@ -16,4 +16,3 @@ Overall, we found that the model based on gray matter volume derived from 3D MRI
 ## Discussion
 Several crucial aspects need to be taken into account in this scenario. Firstly, although the model's validation employs a nested cross-validation approach, the performance of the model on external validation remains unknown. Secondly, the scaling and derivation of latent components were conducted on the entire dataset. This procedure carries the risk of leakage, as the training dataset in each cross-validation fold is somewhat exposed. Thus, it becomes imperative to integrate scaling and PCA into the model pipeline. However, this step was omitted due to computational constraints, which need to be considered.
 
-I hope we have enjoyed this session of data science. We will try to deliver more predictive models in the future.
